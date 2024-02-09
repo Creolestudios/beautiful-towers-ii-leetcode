@@ -1,5 +1,5 @@
 
-# beautiful-towers-ii-leetcode 95ms
+# Beautiful Towers-ii Leetcode Solution with 95ms execution time
 
 You are given a 0-indexed array maxHeights of n integers.
 
